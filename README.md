@@ -1,1 +1,1 @@
-# CV website using HTML in Atom
+# Resume website using HTML in Atom
